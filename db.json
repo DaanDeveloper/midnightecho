@@ -1,3 +1,28 @@
 {
-  "releaseDate": "September 18, 2024"
+  "releaseDate": [
+    {
+      "id": 1,
+      "date": "September 18, 2024"
+    }
+  ],
+  "latestNews": [
+    {
+      "id": 1,
+      "Title": "Première Datum van Midnight Echo Aangekondigd",
+      "Content": "De officiële premièredatum voor \"Midnight Echo\" is aangekondigd. De langverwachte thriller zal zijn debuut maken op 18 september 2024. Fans kijken er reikhalzend naar uit om deze film in bioscopen wereldwijd te ervaren.",
+      "PublishedAt": "2024-08-10 09:00:00"
+    },
+    {
+      "id": 2,
+      "Title": "Midnight Echo: Achter de Schermen Featurette",
+      "Content": "Er is een nieuwe \"achter de schermen\"-featurette uitgebracht voor \"Midnight Echo\", die een kijkje biedt in het maakproces van de film. Regisseur John Doe en hoofdrolspeelster Emma Stone bespreken de uitdagingen bij het tot leven brengen van dit donkere en spannende verhaal.",
+      "PublishedAt": "2024-07-15 14:30:00"
+    },
+    {
+      "id": 3,
+      "Title": "Eerste Kijk: Midnight Echo Trailer Gelanceerd",
+      "Content": "De eerste officiële trailer voor \"Midnight Echo\" is zojuist uitgebracht, en geeft fans een spannend voorproefje van de aankomende thriller onder regie van John Doe. De trailer toont de intense sfeer en de complexe personages die het publiek op het puntje van hun stoel zullen houden. Mis het niet!",
+      "PublishedAt": "2024-06-01 10:00:00"
+    }
+  ]
 }
